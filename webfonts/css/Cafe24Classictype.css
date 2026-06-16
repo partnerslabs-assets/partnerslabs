@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Cafe24Classictype';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://cdn.jsdelivr.net/gh/partnerslabs-assets/partnerslabs/webfonts/Cafe24/Cafe24Classictype.woff2') format('woff2'),
+    url('https://cdn.jsdelivr.net/gh/partnerslabs-assets/partnerslabs/webfonts/Cafe24/Cafe24Classictype.woff') format('woff');
+  font-display: swap;
+}
